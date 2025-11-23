@@ -13,11 +13,11 @@
         <p class="subtitulo">Dúvidas? Conte conosco.</p>
     </header>
     <nav>
-        <a href="home.html">Home</a> |
-        <a href="materias.html">Matérias</a> |
-        <a href="dicas.html">Dicas</a> |
+        <a href="home.php">Home</a> |
+        <a href="materias.php">Matérias</a> |
+        <a href="dicas.php">Dicas</a> |
         <strong>Suporte</strong> |
-        <a href="equipe.html">Equipe</a>
+        <a href="equipe.php">Equipe</a>
     </nav>
     <main id="conteudo-principal">
         <button id="toggle-tema" type="button" aria-label="Alternar tema">Tema Escuro</button>

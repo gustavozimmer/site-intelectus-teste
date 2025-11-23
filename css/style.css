@@ -59,20 +59,6 @@ p {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.botao-principal {
-    background: linear-gradient(135deg, #00689D, #002D6E);
-    color: white;
-    padding: 12px 25px;
-    border: none;
-    border-radius: 25px;
-    font-size: 1.1rem;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    text-decoration: none;
-    display: inline-block;
-    text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
 
 .botao-principal:hover {
     transform: translateY(-3px);
@@ -109,15 +95,15 @@ a:hover {
 li {
     margin-bottom: 0.8rem;
     padding-left: 1rem;
-    border-left: 3px solid #00689D;
-    background-color: rgba(191, 194, 195, 0.1);
+    border-left: 3px solid #778899;
+    background-color: rgba(195, 196, 198, 0,15);
     padding: 0.5rem 0.5rem 0.5rem 1rem;
     border-radius: 0 8px 8px 0;
     transition: all 0.3s ease;
 }
 
 li:hover {
-    background-color: rgba(0, 104, 157, 0.1);
+    background-color: rgba(30, 30, 30, 0.25);
     transform: translateX(5px);
 }
 
@@ -306,7 +292,7 @@ ul {
 }
 
 strong {
-    color: #002D6E;
+    color: #00FFFF;
     background-color: rgba(0, 104, 157, 0.1);
     padding: 0.2rem 0.5rem;
     border-radius: 4px;

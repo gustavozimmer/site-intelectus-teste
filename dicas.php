@@ -13,11 +13,11 @@
         <p class="subtitulo">Aprenda melhor com nossas dicas! </p>
     </header>
     <nav>
-        <a href="home.html">Home</a> |
-        <a href="materias.html">Matérias</a> |
+        <a href="home.php">Home</a> |
+        <a href="materias.php">Matérias</a> |
         <strong>Dicas</strong> |
-        <a href="suporte.html">Suporte</a> |
-        <a href="equipe.html">Equipe</a>
+        <a href="suporte.php">Suporte</a> |
+        <a href="equipe.php">Equipe</a>
     </nav>
     <main id="conteudo-principal">
         <button id="toggle-tema" type="button" aria-label="Alternar tema">Tema Escuro</button>

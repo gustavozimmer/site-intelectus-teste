@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Intelectus | Equipe</title>
     <link rel="stylesheet" href="css/style.css">
-
-<link id="theme-link" rel="stylesheet" href="theme-light.css"></head>
+    <link id="theme-link" rel="stylesheet" href="theme-light.css">
+</head>
 <body>
     
     <header class="cabecalho">
@@ -15,10 +15,10 @@
         <p class="subtitulo">Nossa equipe trabalha para trazer conteúdos claros, práticos e eficientes para você.</p>
     </header>
     <nav>
-        <a href="home.html">Home</a> |
-        <a href="materias.html">Matérias</a> |
-        <a href="dicas.html">Dicas</a> |
-        <a href="suporte.html">Suporte</a> |
+        <a href="home.php">Home</a> |
+        <a href="materias.php">Matérias</a> |
+        <a href="dicas.php">Dicas</a> |
+        <a href="suporte.php">Suporte</a> |
         <strong>Equipe</strong>
     </nav>
     <main id="conteudo-principal">
